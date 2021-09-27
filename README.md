@@ -110,7 +110,7 @@ cd w16-warker-app-api/gas_station
 
 ~ php artisan db:seed
 ``` 
-- The run server with:
+- Then run server with:
 ```
 ~ php artisan serve
 ```
